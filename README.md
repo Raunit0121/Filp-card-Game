@@ -13,8 +13,9 @@ A fun and interactive memory game built with Flutter. Players flip cards to matc
 
 ## 📱 Screenshots
 
-*(![image](https://github.com/user-attachments/assets/e1a404b3-4a58-4155-8342-6cc9b11ec639)
-)*
+![image](https://github.com/user-attachments/assets/e1a404b3-4a58-4155-8342-6cc9b11ec639)![image](https://github.com/user-attachments/assets/d182fd73-d34e-4e22-b09a-9b9b6844fe94)
+
+
 
 
  **Clone the repo**:
