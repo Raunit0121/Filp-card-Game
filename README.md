@@ -1,16 +1,23 @@
-# flip_card_game
+# 🧠 Flip Card Memory Game
 
-A new Flutter project.
+A fun and interactive memory game built with Flutter. Players flip cards to match emoji pairs within a limited number of moves and time. Inspired by classic flip card games.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Emoji-based card matching
+- Limited number of moves and time countdown
+- Hint feature (up to 3 hints)
+- Restart functionality
+- Clean and responsive UI
+- Dark-themed background with gradient
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Add screenshots here if you'd like)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+
+1. **Clone the repo**:
+   ```bash
+   git clone h
+   cd flip-card-game-flutter
